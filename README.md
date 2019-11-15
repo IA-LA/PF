@@ -75,11 +75,20 @@ _Y comprobación de las dependencias_
 ```
 
 _Ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+* **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/tree/master/v1.0):
+```
+    > python nombre.archivo ID
+    > python Foros.txt 0123456
+```
 
+* **Francisco Sánchez** - [*Versión 1.1*](https://github.com/IA-LA/foros)
+* **Francisco Sánchez** - [*Versión 1.2*](https://github.com/IA-LA/foros)
 ```
-    > python archivo____XXX____ID____AÑO ID
-    > python ForosR____ABC____0123456____2019.txt 0123456
+    > python nombre.archivo ID (python Foros.txt 0123456)
+    > python archivo____XXX____ID____AÑO (python ForosR____ABC____0123456____2019.txt)
+    > python directorio (python C:\carpetas\)
 ```
+
 
 ## Despliegue ⌨
 
@@ -113,10 +122,10 @@ Se utilizará [SemVer](http://semver.org/) para el versionado. Para todas las ve
 
 _A todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/v1.0) - [aitordiaz](aitordiaz@pas.uned.es)
+* **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/tree/master/v1.0) - [aitordiaz](aitordiaz@pas.uned.es)
 * **Álvaro Rodrigo** - [alvarory](alvarory@lsi.uned.es)
-* **Francisco Sánchez** - [*Versión 1.1*](https://github.com/IA-LA/PF/v1.1) - [fsanchez](https://github.com/IA-LA/PF/v1.1)
-* **Francisco Sánchez** - [*Versión 1.2*](https://github.com/IA-LA/PF/v1.2) - [fsanchez](https://github.com/IA-LA/PF/v1.2)
+* **Francisco Sánchez** - [*Versión 1.1*](https://github.com/IA-LA/foros) - [fsanchez](https://github.com/IA-LA)
+* **Francisco Sánchez** - [*Versión 1.2*](https://github.com/IA-LA/foros) - [fsanchez](https://github.com/IA-LA)
 * **José Luis F. Vindel** - [jlvindel](jlvindel@dia.uned.es)
 
 También puede consultarse la lista de todos los [contribuyentes](https://github.com/IA-LA/PF/contributors) que han participado en este proyecto. 

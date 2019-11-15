@@ -77,8 +77,8 @@ _Y comprobación de las dependencias_
 _Ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 ```
-    > python
-     "C:\Users\FJ\PycharmProjects\foros\forosGitHub\parserForos\foros\ForosR____ABC____0123456____2019.txt" "0123456"
+    > python archivo____XXX____ID____AÑO ID
+    > python ForosR____ABC____0123456____2019.txt 0123456
 ```
 
 ## Despliegue ⌨

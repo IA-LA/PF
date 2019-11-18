@@ -92,7 +92,7 @@ _Ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña dem
 
 ## Despliegue ⌨
 
-_Agrega notas adicionales sobre cómo hacer el despliegue_
+_Notas adicionales sobre cómo hacer el despliegue_
 
 ```
     > pip install -r requirements.txt
@@ -100,7 +100,7 @@ _Agrega notas adicionales sobre cómo hacer el despliegue_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizadas para crear el proyecto_
+_Herramientas utilizadas para desarrollar el proyecto_
 
 * [Python](https://www.python.org/) - El lenguaje usado
 * [Pip](https://pypi.org/project/pip/) - Manejador de dependencias
@@ -108,7 +108,7 @@ _Menciona las herramientas que utilizadas para crear el proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/IA-LA/PF/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para el envío de solicitudes de pull.
+Por favor lee el [CONTRIBUTING.md](https://github.com/IA-LA/PF/blob/master/CONTRIBUTE.md) para detalles de nuestro código de conducta, y el proceso para el envío de solicitudes de pull.
 
 ## Wiki 📖
 

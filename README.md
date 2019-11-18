@@ -22,7 +22,7 @@ Mira **Despliegue** para conocer cómo desplegar el proyecto.
     > Python 3.x.x
 ```
 
-* [_requirements.txt_](https://github.com/IA-LA/PF/requirements.txt) - Listado de dependencias
+* [_requirements.txt_](https://github.com/IA-LA/PF/blob/master/v1.0/requirements.txt) - Listado de dependencias
 
 ```
     > pip list
@@ -55,7 +55,7 @@ _Y comprobación de las dependencias_
     ipython-genutils==0.2.0
     jdcal==1.4
     jedi==0.11.1
-    nltk==3.4
+    nltk==3.4.5
     numpy==1.16.2
     openpyxl==2.6.2
     pandas==0.24.2
@@ -77,7 +77,7 @@ _Y comprobación de las dependencias_
 _Ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 * **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/tree/master/v1.0):
 ```
-    > python nombre.archivo ID
+    > python nombre.archivo ID_ASIGNATURA_UNED
     > python Foros.txt 0123456
 ```
 

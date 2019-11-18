@@ -108,7 +108,7 @@ _Herramientas utilizadas para desarrollar el proyecto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/IA-LA/PF/blob/master/CONTRIBUTE.md) para detalles de nuestro código de conducta, y el proceso para el envío de solicitudes de pull.
+Por favor lee [CONTRIBUTING](https://github.com/IA-LA/PF/blob/master/CONTRIBUTING.md) para detalles del proceso para el envío de solicitudes de participación y [CODE_OF_CONDUCT](https://github.com/IA-LA/PF/blob/master/CODE_OF_CONDUCT.md) para detalles de nuestro código de conducta.
 
 ## Wiki 📖
 

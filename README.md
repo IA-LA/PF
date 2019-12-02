@@ -122,7 +122,7 @@ Se utilizará [SemVer](http://semver.org/) para el versionado. Para todas las ve
 
 _A todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/tree/master/v1.0) - [aitordiaz](https://github.com/aitordm) - [aitordiaz](mailto:aitordiaz@pas.uned.es)
+* **Aitor Díaz** - [*Versión 1.0*](https://github.com/IA-LA/PF/tree/master/v1.0) - [aitordm](https://github.com/aitordm) - [aitordiaz](mailto:aitordiaz@pas.uned.es)
 * **Álvaro Rodrigo** - [alvarory](mailto:alvarory@lsi.uned.es)
 * **Francisco Sánchez** - [*Versión 1.1*](https://github.com/IA-LA/foros) - [fsanchez](https://github.com/IA-LA)
 * **Francisco Sánchez** - [*Versión 1.2*](https://github.com/IA-LA/foros) - [fsanchez](https://github.com/IA-LA)
